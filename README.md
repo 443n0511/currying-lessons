@@ -44,7 +44,7 @@ console.log(dessertMenus)
 
 #### カリー化・部分適用を用いた場合
 
-#####　通常関数で書いた場合
+##### 通常関数で書いた場合
 ```js
 function menuType(type) {
     return function (menu) {
